@@ -1,4 +1,4 @@
-# Automated Analysis of drb-ra C2 intel feed
+# Automated Analysis of drb-ra CobaltStrike C2 intel feed
 ## Project Background
 [@drb-ra](https://twitter.com/drb_ra) is a reliable automated Cobalt Strike C2 Intelligence Feed that extracts source/raw data based on Censys - https://censys.io/ 
 
