@@ -54,3 +54,6 @@ By default C2s seen active in the last 7 days are added to the main feed files.
 9. shodan
 10. prettytable
 11. datetime
+
+## Todo:
+Include findings from https://michaelkoczwara.medium.com/cobalt-strike-c2-hunting-with-shodan-c448d501a6e2 to include features like pivoting
